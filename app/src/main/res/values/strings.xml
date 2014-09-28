@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vlille</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="blue">#ff2dceff</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#ffff2f2c</color>
+
+    <string name="title_activity_stations_info">StationsInfo</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="title_activity_station_detail">StationDetail</string>
+
+</resources>
